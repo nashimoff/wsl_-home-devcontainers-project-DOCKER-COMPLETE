@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# npm
+package-lock.json
+
+# OS dosyaları
+.DS_Store
+Thumbs.db
+
+# Docker
+*.env
