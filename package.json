@@ -5,11 +5,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nashimoff/wsl_-home-devcontainers-project-DOCKER-COMPLETE.git"
+  },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "express": "^5.2.1"
+  "bugs": {
+    "url": "https://github.com/nashimoff/wsl_-home-devcontainers-project-DOCKER-COMPLETE/issues"
   },
-  "devDependencies": {},
+  "homepage": "https://github.com/nashimoff/wsl_-home-devcontainers-project-DOCKER-COMPLETE#readme",
   "description": ""
 }
